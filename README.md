@@ -17,14 +17,14 @@ or
 Enter domain name or q for exit:
 example1.com
 ```
-2) type another domain, eg example2.com
+3) type another domain, eg example2.com
 ```
 ... whois information about example1.com ...
 ----------------------------------------------
 Enter domain name or q for exit:
 example2.com
 ```
-3) Type q or Q for exit
+4) Type q or Q for exit
 ```
 ... whois information about example2.com ...
 ----------------------------------------------
